@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/thotran/static/css/main.55305781.chunk.css",
+    "main.js": "/thotran/static/js/main.24152ec7.chunk.js",
+    "main.js.map": "/thotran/static/js/main.24152ec7.chunk.js.map",
+    "runtime-main.js": "/thotran/static/js/runtime-main.62e84e9a.js",
+    "runtime-main.js.map": "/thotran/static/js/runtime-main.62e84e9a.js.map",
+    "static/js/2.1f33e814.chunk.js": "/thotran/static/js/2.1f33e814.chunk.js",
+    "static/js/2.1f33e814.chunk.js.map": "/thotran/static/js/2.1f33e814.chunk.js.map",
+    "index.html": "/thotran/index.html",
+    "static/css/main.55305781.chunk.css.map": "/thotran/static/css/main.55305781.chunk.css.map",
+    "static/js/2.1f33e814.chunk.js.LICENSE.txt": "/thotran/static/js/2.1f33e814.chunk.js.LICENSE.txt",
+    "static/media/bag.325b7254.svg": "/thotran/static/media/bag.325b7254.svg",
+    "static/media/heart.b6184d13.svg": "/thotran/static/media/heart.b6184d13.svg",
+    "static/media/location.f788089e.svg": "/thotran/static/media/location.f788089e.svg",
+    "static/media/person.6e4431e6.svg": "/thotran/static/media/person.6e4431e6.svg",
+    "static/media/phone.719f38dd.svg": "/thotran/static/media/phone.719f38dd.svg",
+    "static/media/question_icon.eb22bb7a.svg": "/thotran/static/media/question_icon.eb22bb7a.svg",
+    "static/media/search.abae8212.svg": "/thotran/static/media/search.abae8212.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e84e9a.js",
+    "static/js/2.1f33e814.chunk.js",
+    "static/css/main.55305781.chunk.css",
+    "static/js/main.24152ec7.chunk.js"
+  ]
+}
