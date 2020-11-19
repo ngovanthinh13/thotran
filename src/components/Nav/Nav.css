@@ -1,0 +1,61 @@
+/* @import url(//db.onlinewebfonts.com/c/7cc8cbbd7a330c0d1e7c08c6d62711e4?family=League+Spartan); */
+@font-face {font-family: "League Spartan"; src: url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.eot"); src: url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.woff") format("woff"), url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7cc8cbbd7a330c0d1e7c08c6d62711e4.svg#League Spartan") format("svg"); }
+
+
+
+.nav_left ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    justify-content: start;
+    align-items: center;
+    padding-left: 1vw;
+    
+
+}
+.nav_left{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.logo{
+    font-family: "League Spartan";
+}
+.nav_left ul li{
+    /* font-family: "League Spartan",Helvetica,"Helvetica Neue",Arial,sans-serif; */
+    font-size: .8125rem;
+    letter-spacing: .05rem;
+    line-height: 1rem;
+    font-weight: 200;
+    margin-right: 2vw ;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 1vh; */
+    margin-bottom: 1vh;
+    
+}
+
+.nav_right{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.search{
+    display: flex;
+    margin-left: 4vw;
+    height: 30px;
+    background-color: #dfe6e9;
+    padding-left: 1vw;
+    border-radius: 5px;
+}
+.search img{
+    margin-right: 1vw;
+}
+.search input{
+    outline: none;
+    border: none;
+    width: 20vw;
+    background-color: #dfe6e9;
+}

@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+
+hr{
+    
+}
+.footer{
+    color: white;
+}
+
+.footer_menu ul li{
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    letter-spacing: .025rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    /* margin-bottom: 100vh; */
+    padding-bottom: 5vh;
+    padding-top: 2vh;
+}
+.footer_menu ul{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+    
+    
+}
+.footer_menu{
+   border-top: 1px solid #636e72;
+   margin-top: 5vh;
+
+}
+.logo_footer h1{
+    /* margin-top: ; */
+    padding-top: 5vh;
+}
+.footer_menu_itemt1{
+    /* display: flex; */
+}
+.footer_menu_itemt1 .other ul li{
+    padding-top: 0vh;
+}
+.icon_footer{
+    display: flex;
+}
